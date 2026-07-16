@@ -19,7 +19,7 @@
     <!-- ===== MyLoans text (vertically centered to icon) ===== -->
     <text x="112" y="55"
           font-family="Arial, Helvetica, sans-serif"
-          font-size="80" font-weight="700"
+          font-size="82" font-weight="700"
           dominant-baseline="central"
           fill="#F5A623">MyLoans</text>
   </g>
